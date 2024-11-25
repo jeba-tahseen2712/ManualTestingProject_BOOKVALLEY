@@ -56,7 +56,8 @@ A log of bugs identified during testing includes the following details:
 - **Current Status**
 
 **Bug Report On EXCEL**
-![image](https://github.com/user-attachments/assets/17395ea5-9d4f-40c5-97b8-5ddd19b25448)
+![image](https://github.com/user-attachments/assets/4fc51fe5-da53-45ae-ad6c-8eb9176185b8)
+
 
 **Bug Report On Jira**
 ![image](https://github.com/user-attachments/assets/58d87464-1ec8-49ec-b069-0afe1f34eb50)
