@@ -63,7 +63,8 @@ A log of bugs identified during testing includes the following details:
 ![image](https://github.com/user-attachments/assets/58d87464-1ec8-49ec-b069-0afe1f34eb50)
 
 ## Test Matrics
-![image](https://github.com/user-attachments/assets/7d68570f-af28-4211-bd4e-f4c09e16ae15)
+![image](https://github.com/user-attachments/assets/45f1092f-de03-4a31-bc97-73e0ea9ba61b)
+
 
 
 
